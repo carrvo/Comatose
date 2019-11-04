@@ -1,0 +1,6 @@
+The following files have been changed:
+pyComa\
+	symbol		-> from absolute import __future__ moved to top
+	BOSS		-> '\r' added to end of stdout lines
+	board		-> '\r' added to end of stdout lines
+	lvlchange	-> '\r' added to end of stdout lines

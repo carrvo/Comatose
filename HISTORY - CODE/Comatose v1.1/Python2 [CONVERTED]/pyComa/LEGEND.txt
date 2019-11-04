@@ -1,0 +1,17 @@
+LEGEND:
+F - Fredrick (you)
+C - creature - if you run into one game over
+B - bomb - can kill creatures or you
+P - package of bombs - run into in order to get bombs
+X - wall - if you run into it game over
+* - crack in wall - detonate a bomb beside then run into to complete level
+
+CONTROLS:
+w = up
+s = down
+a = left
+d = right
+space = lay a bomb (B)
+f = speed up/slow down
+
+Press enter after completing a level to proceed to the next level.

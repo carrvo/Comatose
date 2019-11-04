@@ -1,0 +1,25 @@
+*******************************************************************************
+WHEN RUNNING USE comatose.py
+*******************************************************************************
+*******************************************************************************
+
+*******************************************************************************
+MAC USERS: To run:
+	right-click->open with->other
+	change "enable" to be "All Applications"
+	scroll down to utilities and click
+	scroll down to terminal.app and click
+	then click "open"
+*******************************************************************************
+UBUNTU USERS: To run:
+	in the file manager click edit->preferences
+	then navigate to Behavior
+	under "Executable Text Files" click "Ask each time" and then close
+	then double click file
+After running comatose you may want to revert the change
+	--to do so follow same proceedure and click "View executable" instead
+*******************************************************************************
+WINDOWS USERS: To run:
+	double click file
+If fails to run you can use comatose.exe instead
+*******************************************************************************
