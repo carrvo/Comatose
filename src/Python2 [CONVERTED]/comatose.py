@@ -8,4 +8,4 @@ except Exception as error:
     print(error)
 finally:
     print()
-    input()
+    input('Press to exit.')
