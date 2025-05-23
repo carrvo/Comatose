@@ -16,6 +16,8 @@ I hope to make it available in as many software languages as I can (and will lea
 
 The latest (released) can be found under `bin`.
 
+**Note:** The latest uses Python3. If you are running any under HISTORY, please use the [README](./HISTORY - RELEASES/README.md) to determine whether it still uses Python2.
+
 ### WHEN RUNNING USE `comatose.py`
 ***
 
